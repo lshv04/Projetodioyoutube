@@ -8,7 +8,7 @@
 Este projeto é um site de portfólio pessoal desenvolvido com o objetivo de imitar a pagina do youtube, afim de treinar conceitos de Flexbox e Iframe.  
 
 ## ✔️ Técnicas e tecnologias utilizadas
-- **HTML**5: Para a marcação semântica do conteúdo.  
+- **HTML5**: Para a marcação semântica do conteúdo.  
 - **CSS3**: Para estilização e layout.  
 - **Flexbox**: Para organização e alinhamento de elementos.  
 - **Iframe**: Para acréscimo de conteúdo externo na página principal.  
